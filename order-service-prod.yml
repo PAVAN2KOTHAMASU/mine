@@ -1,5 +1,5 @@
 test:
-  message: Hello s1 from prod
+  message: Hello  from prod
 
 server:
   port: 7082
